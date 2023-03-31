@@ -1,0 +1,24 @@
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Petshop App.exe.config
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Petshop App.exe
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Petshop App.pdb
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Guna.UI2.dll
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.csproj.AssemblyReference.cache
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Properties.Resources.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.csproj.GenerateResource.cache
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.csproj.CoreCompileInputs.cache
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.csproj.CopyComplete
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.exe
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.pdb
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Hoadon.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Khachhang.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Nhanvien.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.MainForm.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Controller.Trangchu.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Controller.Sanpham.resources
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.exe.config
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop App.exe.licenses
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\iBeos\source\repos\Petshop App\Petshop App\obj\Debug\Petshop_App.Login.resources
